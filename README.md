@@ -9,7 +9,7 @@ Grep is a command-line utility for searching plain-text data sets for lines that
 
 ## Usage
 
-- `$>./s21_cat [-hnlcovsief] pattern... [filenames...]`
+- `$>./s21_grep [-hnlcovsief] pattern... [filenames...]`
 
 - A program without filename arguments or with the "-" argument works with standard input.
 
